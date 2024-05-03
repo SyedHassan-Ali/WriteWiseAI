@@ -2,7 +2,7 @@
 ## Description
 Write Wise AI will be an AI assitant of kids which will provide feedback in real time.
 ## Demo Video
-link of demo video: [demo] (https://drive.google.com/drive/u/0/folders/1LxGXmDvPZP6As-mQjH5iGt9fPVyij1_3?q=parent:1LxGXmDvPZP6As-mQjH5iGt9fPVyij1_3)
+link of demo video: [demo](https://drive.google.com/drive/u/0/folders/1LxGXmDvPZP6As-mQjH5iGt9fPVyij1_3?q=parent:1LxGXmDvPZP6As-mQjH5iGt9fPVyij1_3)
 ## Prerequisites
 To run this sample code it requires python environment and anaconda distibution.
 ## Usage
