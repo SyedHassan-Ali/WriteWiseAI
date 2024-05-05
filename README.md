@@ -18,3 +18,6 @@ You can run the sample.ipynb that contains the code to load the model and based 
 
 Our designed Innovation is based on hardware (custom designed structure with embedded systems) and software as it can be seen in the Video. 
 We have submitted only a sample test of our application. The greater concept and real dataset can be demonstrated in the complete presentation.
+
+link of Presentation: [PPT](https://docs.google.com/presentation/d/1tntHTXcatEnuOtWyUn3VKYTivlC_dQye/edit?usp=sharing&ouid=112305823605117978207&rtpof=true&sd=true)
+
